@@ -7,7 +7,7 @@ about:
   head: e5daf66
   archived: false
   latestVersion: v0.23.1
-  collectedAt: 2026-09-04T19:56:44Z
+  collectedAt: 2026-09-04T20:43:39Z
 timeline:
   created: 2024-02-05
   lastCommit: 2026-09-03
@@ -81,5 +81,43 @@ total:
   openIssue: 13
   commit: 499
 ---
+path: /home/runner/.x-repo/github.com/Julien-cpsn/ATAC
+collectedAt: 2026-09-04T20:43:41Z
+loc:
+  Rust:
+    code: 14961
+    comments: 415
+    blanks: 3272
+    files: 193
+  Json:
+    code: 4237
+    comments: 0
+    blanks: 0
+    files: 13
+  Yaml:
+    code: 837
+    comments: 0
+    blanks: 1
+    files: 2
+  Toml:
+    code: 601
+    comments: 142
+    blanks: 169
+    files: 15
+  Dockerfile:
+    code: 23
+    comments: 1
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 301
+    blanks: 81
+    files: 1
+total:
+  code: 20669
+  comments: 1083
+  blanks: 3527
+  files: 225
 ---
 
