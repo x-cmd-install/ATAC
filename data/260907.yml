@@ -5,13 +5,13 @@ about:
   head: e5daf66
   archived: false
   latestVersion: "v0.23.1"
-  collectedAt: 2026-09-07T04:43:52Z
+  collectedAt: 2026-09-07T19:37:43Z
 timeline:
   created: 2024-02-05
   lastCommit: 2026-09-03
   lastRelease: 2026-09-03
 popularity:
-  star: 3715
+  star: 3717
   watcher: 11
   fork: 137
   release: 41
@@ -80,7 +80,7 @@ total:
   commit: 499
 ---
 path: /home/runner/.x-repo/github.com/Julien-cpsn/ATAC
-collectedAt: 2026-09-07T04:43:54Z
+collectedAt: 2026-09-07T19:37:45Z
 loc:
   Rust:
     code: 14961
@@ -121,7 +121,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:43:55+00:00
+  collectedAt: 2026-09-07T19:37:46+00:00
   platform:
     darwin/arm64:
       name:  atac-v0.23.1-aarch64-apple-darwin.tar.gz
