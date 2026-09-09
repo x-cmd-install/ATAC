@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.23.1"
   latestRelease: "v0.23.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:56:40Z
+  collectedAt: 2026-09-09T19:04:46Z
 timeline:
   created: 2024-02-05
   lastCommit: 2026-09-03
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-03
   lastPrerelease: 
 popularity:
-  star: 3719
+  star: 3720
   watcher: 11
   fork: 137
   release: 41
@@ -84,7 +84,7 @@ total:
   commit: 499
 ---
 path: /home/runner/.x-repo/github.com/Julien-cpsn/ATAC
-collectedAt: 2026-09-09T04:56:42Z
+collectedAt: 2026-09-09T19:04:51Z
 loc:
   Rust:
     code: 14961
