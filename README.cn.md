@@ -4,7 +4,7 @@
 
 A simple API client (postman like) in your terminal
 
-![ATAC](https://repo.x-cmd.io/ATAC.svg)
+![ATAC](https://repo.x-cmd.io/ATAC.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,23 @@ x install ATAC
 - **最新版本**: `v0.23.1` (2026-09-03)
 - **最近提交**: 2026-09-03
 - **Release 含资产**: 12 个
-- **发布时间**: 2026-09-03T08:49:40Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [atac-v0.23.1-aarch64-apple-darwin.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-aarch64-apple-darwin.tar.gz) | 6.3 MiB | `native/darwin/arm64` |
+| [atac-v0.23.1-aarch64-pc-windows-msvc.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-aarch64-pc-windows-msvc.tar.gz) | 6.6 MiB | `native/win/arm64` |
+| [atac-v0.23.1-aarch64-pc-windows-msvc.zip](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-aarch64-pc-windows-msvc.zip) | 6.4 MiB | `native/win/arm64` |
+| [atac-v0.23.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-aarch64-unknown-linux-gnu.tar.gz) | 7.0 MiB | `native/linux/arm64/glibc` |
+| [atac-v0.23.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-aarch64-unknown-linux-musl.tar.gz) | 7.0 MiB | `native/linux/arm64/musl` |
+| [atac-v0.23.1-universal-apple-darwin.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-universal-apple-darwin.tar.gz) | 13.0 MiB | `native/darwin/x64` |
+| [atac-v0.23.1-x86_64-apple-darwin.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-apple-darwin.tar.gz) | 6.6 MiB | `native/darwin/x64` |
+| [atac-v0.23.1-x86_64-pc-windows-msvc.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-pc-windows-msvc.tar.gz) | 7.0 MiB | `native/win/x64` |
+| [atac-v0.23.1-x86_64-pc-windows-msvc.zip](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-pc-windows-msvc.zip) | 6.8 MiB | `native/win/x64` |
+| [atac-v0.23.1-x86_64-unknown-freebsd.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-unknown-freebsd.tar.gz) | 7.2 MiB | `native/linux/x64` |
+| [atac-v0.23.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-unknown-linux-gnu.tar.gz) | 7.2 MiB | `native/linux/x64/glibc` |
+| [atac-v0.23.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-unknown-linux-musl.tar.gz) | 7.3 MiB | `native/linux/x64/musl` |
 
 ## 流行度
 
@@ -62,4 +78,4 @@ ATAC 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:50:10Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:38:08Z._
