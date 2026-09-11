@@ -12,6 +12,18 @@ A simple API client (postman like) in your terminal
 x install ATAC
 ```
 
+## Code insight
+
+Total: **20,659** lines of code across **224** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 14,961 | 415 | 3,272 | 193 |
+| Json | 4,237 | 0 | 0 | 13 |
+| Yaml | 837 | 0 | 1 | 2 |
+| Toml | 601 | 142 | 169 | 15 |
+| Dockerfile | 23 | 1 | 4 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Julien-cpsn/ATAC>
@@ -23,6 +35,25 @@ x install ATAC
 - **Latest**: `v0.23.1` (2026-09-03)
 - **Last commit**: 2026-09-03
 - **Assets in release**: 12
+
+## Popularity
+
+- **Stars**: 3,721 · **Forks**: 137 · **Open issues**: 104 · **Contributors**: 25
+
+## Totals (cumulative)
+
+- **Releases**: 41 · **Merged PRs**: 53 · **Open PRs**: 7 · **Closed issues**: 91 · **Open issues**: 13 · **Commits**: 499
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 1 | 1 | 1 | 0 | 0 | 2 |
+| last60d | 2026-07-13 | 1 | 1 | 2 | 0 | 0 | 2 |
+| 90d | 2026-06-13 | 1 | 1 | 3 | 0 | 0 | 2 |
+| last180d | 2026-03-15 | 1 | 1 | 4 | 1 | 4 | 2 |
+| 360d | 2025-09-16 | 3 | 7 | 7 | 13 | 5 | 30 |
+| last720d | 2024-09-21 | 11 | 19 | 7 | 43 | 11 | 133 |
 
 ## Release assets
 
@@ -41,34 +72,6 @@ x install ATAC
 | [atac-v0.23.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-unknown-linux-gnu.tar.gz) | 7.2 MiB | `native/linux/x64/glibc` |
 | [atac-v0.23.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-unknown-linux-musl.tar.gz) | 7.3 MiB | `native/linux/x64/musl` |
 
-## Popularity
-
-- **Stars**: 3,720 · **Forks**: 137 · **Open issues**: 104 · **Contributors**: 25
-
-## Totals (cumulative)
-
-- **Releases**: 41 · **Merged PRs**: 53 · **Open PRs**: 7 · **Closed issues**: 91 · **Open issues**: 13 · **Commits**: 499
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 1 | 1 | 0 | 0 | 2 |
-| 90d | 2026-06-12 | 1 | 1 | 3 | 0 | 2 | 2 |
-| 360d | 2025-09-15 | 3 | 7 | 7 | 13 | 5 | 30 |
-
-## Code size
-
-Total: **20,659** lines of code across **224** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 14,961 | 415 | 3,272 | 193 |
-| Json | 4,237 | 0 | 0 | 13 |
-| Yaml | 837 | 0 | 1 | 2 |
-| Toml | 601 | 142 | 169 | 15 |
-| Dockerfile | 23 | 1 | 4 | 1 |
-
 ## Improve this data
 
 Install metadata for ATAC lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ATAC` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +81,4 @@ Install metadata for ATAC lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:38:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:14:59Z._
