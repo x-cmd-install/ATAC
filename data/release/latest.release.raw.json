@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6644918,
       "digest": "sha256:a3204b7ccea12c2674762dea91ae14bdbd6395fac1ccad06a3728e257a94247d",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-09-03T08:58:01Z",
       "updated_at": "2026-09-03T08:58:01Z",
       "browser_download_url": "https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6917210,
       "digest": "sha256:6ff34981f1744c9420624fe20968522cf4802c82eb518cbf071aa61702aeb822",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-03T08:59:58Z",
       "updated_at": "2026-09-03T08:59:58Z",
       "browser_download_url": "https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-aarch64-pc-windows-msvc.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 7114597,
       "digest": "sha256:812e604bd0bc6c56412aac715a80095d7d46c5e5830a8df2766b31f6c414a434",
-      "download_count": 53,
+      "download_count": 55,
       "created_at": "2026-09-03T09:00:33Z",
       "updated_at": "2026-09-03T09:00:34Z",
       "browser_download_url": "https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 7580492,
       "digest": "sha256:ac60c611f7ab09407f098501de29ed5bb5d9474838436f60f04353f86f31c641",
-      "download_count": 84,
+      "download_count": 86,
       "created_at": "2026-09-03T08:55:52Z",
       "updated_at": "2026-09-03T08:55:53Z",
       "browser_download_url": "https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-unknown-linux-gnu.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 7705881,
       "digest": "sha256:dcd61727c3871e3643439dd32d3182995bb5337feeba5bdbbcd3d6432cf00618",
-      "download_count": 32,
+      "download_count": 35,
       "created_at": "2026-09-03T08:55:48Z",
       "updated_at": "2026-09-03T08:55:49Z",
       "browser_download_url": "https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-unknown-linux-musl.tar.gz"
