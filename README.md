@@ -14,14 +14,14 @@ x install ATAC
 
 ## Code insight
 
-Total: **20,659** lines of code across **224** files in the top 5 languages.
+Total: **23,164** lines of code across **234** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 14,961 | 415 | 3,272 | 193 |
-| Json | 4,237 | 0 | 0 | 13 |
+| Rust | 17,220 | 464 | 3,699 | 202 |
+| Json | 4,391 | 0 | 0 | 14 |
 | Yaml | 837 | 0 | 1 | 2 |
-| Toml | 601 | 142 | 169 | 15 |
+| Toml | 693 | 144 | 187 | 15 |
 | Dockerfile | 23 | 1 | 4 | 1 |
 
 ## Source
@@ -32,45 +32,45 @@ Total: **20,659** lines of code across **224** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.23.1` (2026-09-03)
-- **Last commit**: 2026-09-03
+- **Latest**: `v0.24.0` (2026-10-11)
+- **Last commit**: 2026-10-11
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 3,739 · **Forks**: 142 · **Open issues**: 105 · **Contributors**: 25
+- **Stars**: 3,740 · **Forks**: 142 · **Open issues**: 105 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 53 · **Open PRs**: 8 · **Closed issues**: 91 · **Open issues**: 14 · **Commits**: 499
+- **Releases**: 42 · **Merged PRs**: 55 · **Open PRs**: 6 · **Closed issues**: 92 · **Open issues**: 13 · **Commits**: 519
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-12 | 1 | 1 | 2 | 0 | 1 | 2 |
-| 90d | 2026-07-13 | 1 | 1 | 3 | 0 | 1 | 2 |
-| last180d | 2026-04-14 | 1 | 1 | 5 | 1 | 3 | 2 |
-| 360d | 2025-10-16 | 3 | 4 | 8 | 10 | 6 | 19 |
-| last720d | 2024-10-21 | 11 | 19 | 8 | 43 | 11 | 133 |
+| 30d | 2026-09-12 | 1 | 1 | 0 | 1 | 0 | 17 |
+| last60d | 2026-08-13 | 2 | 2 | 1 | 1 | 0 | 19 |
+| 90d | 2026-07-14 | 2 | 3 | 1 | 1 | 0 | 19 |
+| last180d | 2026-04-15 | 2 | 3 | 3 | 2 | 2 | 20 |
+| 360d | 2025-10-17 | 4 | 6 | 6 | 11 | 5 | 37 |
+| last720d | 2024-10-22 | 12 | 21 | 6 | 44 | 10 | 153 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [atac-v0.23.1-aarch64-apple-darwin.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-aarch64-apple-darwin.tar.gz) | 6.3 MiB | `native/darwin/arm64` |
-| [atac-v0.23.1-aarch64-pc-windows-msvc.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-aarch64-pc-windows-msvc.tar.gz) | 6.6 MiB | `native/win/arm64` |
-| [atac-v0.23.1-aarch64-pc-windows-msvc.zip](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-aarch64-pc-windows-msvc.zip) | 6.4 MiB | `native/win/arm64` |
-| [atac-v0.23.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-aarch64-unknown-linux-gnu.tar.gz) | 7.0 MiB | `native/linux/arm64/glibc` |
-| [atac-v0.23.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-aarch64-unknown-linux-musl.tar.gz) | 7.0 MiB | `native/linux/arm64/musl` |
-| [atac-v0.23.1-universal-apple-darwin.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-universal-apple-darwin.tar.gz) | 13.0 MiB | `native/darwin/x64` |
-| [atac-v0.23.1-x86_64-apple-darwin.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-apple-darwin.tar.gz) | 6.6 MiB | `native/darwin/x64` |
-| [atac-v0.23.1-x86_64-pc-windows-msvc.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-pc-windows-msvc.tar.gz) | 7.0 MiB | `native/win/x64` |
-| [atac-v0.23.1-x86_64-pc-windows-msvc.zip](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-pc-windows-msvc.zip) | 6.8 MiB | `native/win/x64` |
-| [atac-v0.23.1-x86_64-unknown-freebsd.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-unknown-freebsd.tar.gz) | 7.2 MiB | `native/linux/x64` |
-| [atac-v0.23.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-unknown-linux-gnu.tar.gz) | 7.2 MiB | `native/linux/x64/glibc` |
-| [atac-v0.23.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.23.1/atac-v0.23.1-x86_64-unknown-linux-musl.tar.gz) | 7.3 MiB | `native/linux/x64/musl` |
+| [atac-v0.24.0-aarch64-apple-darwin.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.24.0/atac-v0.24.0-aarch64-apple-darwin.tar.gz) | 6.7 MiB | `native/darwin/arm64` |
+| [atac-v0.24.0-aarch64-pc-windows-msvc.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.24.0/atac-v0.24.0-aarch64-pc-windows-msvc.tar.gz) | 7.0 MiB | `native/win/arm64` |
+| [atac-v0.24.0-aarch64-pc-windows-msvc.zip](https://github.com/Julien-cpsn/ATAC/releases/download/v0.24.0/atac-v0.24.0-aarch64-pc-windows-msvc.zip) | 6.8 MiB | `native/win/arm64` |
+| [atac-v0.24.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.24.0/atac-v0.24.0-aarch64-unknown-linux-gnu.tar.gz) | 7.5 MiB | `native/linux/arm64/glibc` |
+| [atac-v0.24.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.24.0/atac-v0.24.0-aarch64-unknown-linux-musl.tar.gz) | 7.4 MiB | `native/linux/arm64/musl` |
+| [atac-v0.24.0-universal-apple-darwin.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.24.0/atac-v0.24.0-universal-apple-darwin.tar.gz) | 13.8 MiB | `native/darwin/x64` |
+| [atac-v0.24.0-x86_64-apple-darwin.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.24.0/atac-v0.24.0-x86_64-apple-darwin.tar.gz) | 7.0 MiB | `native/darwin/x64` |
+| [atac-v0.24.0-x86_64-pc-windows-msvc.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.24.0/atac-v0.24.0-x86_64-pc-windows-msvc.tar.gz) | 7.4 MiB | `native/win/x64` |
+| [atac-v0.24.0-x86_64-pc-windows-msvc.zip](https://github.com/Julien-cpsn/ATAC/releases/download/v0.24.0/atac-v0.24.0-x86_64-pc-windows-msvc.zip) | 7.2 MiB | `native/win/x64` |
+| [atac-v0.24.0-x86_64-unknown-freebsd.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.24.0/atac-v0.24.0-x86_64-unknown-freebsd.tar.gz) | 7.6 MiB | `native/linux/x64` |
+| [atac-v0.24.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.24.0/atac-v0.24.0-x86_64-unknown-linux-gnu.tar.gz) | 7.7 MiB | `native/linux/x64/glibc` |
+| [atac-v0.24.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/Julien-cpsn/ATAC/releases/download/v0.24.0/atac-v0.24.0-x86_64-unknown-linux-musl.tar.gz) | 7.8 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for ATAC lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:51:48Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:19:42Z._
