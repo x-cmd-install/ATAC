@@ -14,11 +14,11 @@ x install ATAC
 
 ## Code insight
 
-Total: **23,164** lines of code across **234** files in the top 5 languages.
+Total: **23,229** lines of code across **235** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 17,220 | 464 | 3,699 | 202 |
+| Rust | 17,285 | 464 | 3,713 | 203 |
 | Json | 4,391 | 0 | 0 | 14 |
 | Yaml | 837 | 0 | 1 | 2 |
 | Toml | 693 | 144 | 187 | 15 |
@@ -33,27 +33,27 @@ Total: **23,164** lines of code across **234** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.24.0` (2026-10-11)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-19
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 3,740 · **Forks**: 144 · **Open issues**: 103 · **Contributors**: 26
+- **Stars**: 3,740 · **Forks**: 144 · **Open issues**: 103 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 54 · **Open PRs**: 8 · **Closed issues**: 90 · **Open issues**: 13 · **Commits**: 519
+- **Releases**: 42 · **Merged PRs**: 55 · **Open PRs**: 7 · **Closed issues**: 90 · **Open issues**: 13 · **Commits**: 521
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 1 | 2 | 1 | 0 | 7 |
-| last60d | 2026-08-20 | 2 | 2 | 3 | 1 | 0 | 18 |
-| 90d | 2026-07-21 | 2 | 2 | 3 | 1 | 0 | 19 |
-| last180d | 2026-04-22 | 2 | 3 | 5 | 1 | 2 | 20 |
-| 360d | 2025-10-24 | 3 | 6 | 8 | 10 | 5 | 37 |
-| last720d | 2024-10-29 | 11 | 21 | 8 | 43 | 10 | 146 |
+| 30d | 2026-09-20 | 1 | 2 | 1 | 1 | 0 | 8 |
+| last60d | 2026-08-21 | 2 | 3 | 2 | 1 | 0 | 19 |
+| 90d | 2026-07-22 | 2 | 3 | 2 | 1 | 0 | 20 |
+| last180d | 2026-04-23 | 2 | 4 | 4 | 1 | 2 | 21 |
+| 360d | 2025-10-25 | 3 | 7 | 7 | 10 | 5 | 38 |
+| last720d | 2024-10-30 | 11 | 22 | 7 | 43 | 10 | 148 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for ATAC lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:47:12Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:55:03Z._
