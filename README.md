@@ -48,12 +48,12 @@ Total: **23,229** lines of code across **235** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 1 | 1 | 0 | 0 | 6 |
-| last60d | 2026-08-28 | 2 | 2 | 1 | 1 | 0 | 19 |
-| 90d | 2026-07-29 | 2 | 3 | 2 | 1 | 0 | 20 |
-| last180d | 2026-04-30 | 2 | 4 | 3 | 1 | 2 | 21 |
-| 360d | 2025-11-01 | 3 | 7 | 7 | 10 | 4 | 37 |
-| last720d | 2024-11-06 | 11 | 22 | 7 | 42 | 10 | 148 |
+| 30d | 2026-09-28 | 1 | 1 | 1 | 0 | 0 | 6 |
+| last60d | 2026-08-29 | 2 | 2 | 1 | 1 | 0 | 19 |
+| 90d | 2026-07-30 | 2 | 3 | 2 | 1 | 0 | 20 |
+| last180d | 2026-05-01 | 2 | 4 | 3 | 1 | 2 | 21 |
+| 360d | 2025-11-02 | 3 | 7 | 7 | 10 | 4 | 37 |
+| last720d | 2024-11-07 | 11 | 22 | 7 | 42 | 10 | 148 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for ATAC lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:12:50Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:46:38Z._
