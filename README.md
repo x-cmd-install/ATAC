@@ -38,22 +38,22 @@ Total: **23,229** lines of code across **235** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,754 · **Forks**: 144 · **Open issues**: 105 · **Contributors**: 28
+- **Stars**: 3,753 · **Forks**: 145 · **Open issues**: 105 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 56 · **Open PRs**: 7 · **Closed issues**: 92 · **Open issues**: 13 · **Commits**: 521
+- **Releases**: 42 · **Merged PRs**: 56 · **Open PRs**: 9 · **Closed issues**: 92 · **Open issues**: 13 · **Commits**: 521
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 1 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 1 | 2 | 1 | 1 | 0 | 18 |
-| 90d | 2026-08-18 | 2 | 3 | 2 | 1 | 0 | 19 |
-| last180d | 2026-05-20 | 2 | 4 | 3 | 1 | 2 | 21 |
-| 360d | 2025-11-21 | 3 | 7 | 6 | 7 | 4 | 37 |
-| last720d | 2024-11-26 | 11 | 22 | 7 | 41 | 10 | 148 |
+| 30d | 2026-10-18 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 1 | 2 | 3 | 1 | 0 | 18 |
+| 90d | 2026-08-19 | 2 | 3 | 4 | 1 | 0 | 19 |
+| last180d | 2026-05-21 | 2 | 4 | 5 | 1 | 2 | 21 |
+| 360d | 2025-11-22 | 3 | 7 | 8 | 7 | 4 | 37 |
+| last720d | 2024-11-27 | 11 | 22 | 9 | 41 | 10 | 148 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for ATAC lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:50:48Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:07:30Z._
